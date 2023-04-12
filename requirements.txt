@@ -26,4 +26,4 @@ telegraph
 wikipedia
 opencv-python--headless
 gtts
-git+https://github.com/noob-kittu/KoraX.git
+git+https://github.com/noob-kittu/korax
